@@ -36,7 +36,7 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________________________________
 
 
-<img src="https://img.shields.io/badge/Communication:-808080?style=for-the-badge"/> [![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram)](ссылка_на_ваш_телеграм) [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=Gmail)](mailto:zoleg@gmail.com) [![Хабр](https://img.shields.io/badge/Хабр-0d1117?style=for-the-badge&logo=habr)]()
+<img src="https://img.shields.io/badge/Communication:-808080?style=for-the-badge"/> [![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram)](https://t.me/mitdevv) [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=Gmail)](mailto:zoleg@gmail.com) [![Хабр](https://img.shields.io/badge/Хабр-0d1117?style=for-the-badge&logo=habr)](https://career.habr.com/zubkovoleg01)
 
 
 
