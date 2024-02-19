@@ -5,8 +5,9 @@ ________________________________________________________________________________
 
 ##### In my free time, I also dabble in Front-end development as a hobby.🏃
 
-![Snake animation](https://github.com/zubkovoleg01/zubkovoleg01/blob/output/github-contribution-grid-snake.svg)
+###### Owner of their own group in Telegram.👾
 
+![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubkovoleg01&hide=contribs,prs&rank_icon=github&theme=jolly&custom_title=Oleg's%20GitHub%20stats)
 
 ______________________________________________________________________________________________________________________________________________________________________
 
