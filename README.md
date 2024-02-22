@@ -3,9 +3,7 @@ ________________________________________________________________________________
 
 #### I'm Python Back-end developer.👨‍💻
 
-##### In my free time, I also dabble in Front-end development as a hobby.🏃
-
-###### Owner of their own group in Telegram.👾
+##### In my free time, I also dabble in Front-end development as a hobby.👾
 
 ![Oleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubkovoleg01&hide=contribs,prs&rank_icon=github&theme=jolly&custom_title=Oleg's%20GitHub%20stats)
 
